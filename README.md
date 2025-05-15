@@ -39,8 +39,8 @@ Sou uma mulher determinada e resiliente, que acredita que estudo e esforço pode
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🛍️ **Análise de Vendas Amazon Índia (Roupas)** | Análise de vendas com foco em comportamento do consumidor e lucratividade de roupas na Amazon Índia | Excel, Power BI |
-| 🏬 **Loja Fictícia - Vendas** | Análise de vendas de uma loja fictícia com foco em produtos mais vendidos, faturamento e sazonalidade | Excel, Power BI |
+| 🛍️ **Análise de Vendas Amazon Índia (Roupas)** | Análise de vendas com foco em comportamento do consumidor e lucratividade de roupas na Amazon Índia | Python |
+| 🏬 **Loja Fictícia - Vendas** | Análise de vendas de uma loja fictícia com foco em produtos mais vendidos, faturamento e sazonalidade | Python |
 
 > Veja os repositórios para mais detalhes e dashboards interativos!
 
