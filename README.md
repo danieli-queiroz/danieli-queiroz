@@ -1,7 +1,7 @@
-<h1 align="center">👩‍💻 Danieli Queiroz | Cientista de Dados em formação</h1>
+<h1 align="center">✨ Danieli Queiroz | Cientista de Dados em formação</h1>
 
 <p align="center">
-  <strong>📍 São Paulo - SP | 💻 Estudante de Banco de Dados | 🚀 Futura Cientista de Dados</strong>
+  <strong>📍 São Paulo - SP | 💻 Estudante de Banco de Dados | ✨ Futura Cientista de Dados</strong>
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@ Sou uma mulher determinada e resiliente, que acredita que estudo e esforço pode
 
 ## 💡 Conhecimentos e Ferramentas
 
-- **Linguagens:** Python, SQL, DAX  
+- **Linguagens:** Python, SQL, DAX, R
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
-- **Análise de Dados:** Excel, Google Sheets, Power BI  
+- **Análise de Dados:** Excel, Google Sheets, Power BI, Tableau, RStudio
 - **Ciência de Dados:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Outros:** Git, GitHub, Notion, VS Code  
 
