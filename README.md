@@ -1,7 +1,8 @@
 <h1 align="center">✨ Danieli Queiroz | Cientista de Dados em formação</h1>
+<h1 align="center">Danieli Santos Queiroz | Cientista de Dados em Formação</h1>
 
 <p align="center">
-  <strong>📍 São Paulo - SP | 💻 Estudante de Banco de Dados | ✨ Futura Cientista de Dados</strong>
+  São Paulo - SP | Estudante de Banco de Dados | Foco em Python, SQL, Power BI e Machine Learning
 </p>
 
 <p align="center">
@@ -12,96 +13,94 @@
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
-Olá! Meu nome é **Danieli**, tenho 26 anos e sou apaixonada por tecnologia e transformação de dados em decisões inteligentes.
+Sou Danieli Santos Queiroz, estudante de Banco de Dados pela Faculdade Impacta e formada como Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru. Tenho me dedicado diariamente à área de Dados e Tecnologia, com foco em Python, SQL, Power BI e fundamentos de Machine Learning.
 
-🔍 Estudante de **Banco de Dados** na Faculdade Impacta  
-🎓 Formação Técnica em Desenvolvimento de Sistemas pela ETEC  
-📊 Em busca do meu espaço na área de Dados.
-🚀 Estudando Python, SQL, Power BI e Machine Learning todos os dias
-
-Sou uma mulher determinada e resiliente, que acredita que estudo e esforço podem mudar destinos. 💜
+Acredito no poder da análise de dados para apoiar decisões estratégicas, otimizar processos e gerar impacto real em ambientes colaborativos. Estou construindo meu portfólio com projetos práticos, aplicando as ferramentas e conceitos aprendidos ao longo da minha formação técnica, acadêmica e em cursos livres.
 
 ---
 
-## 💡 Conhecimentos e Ferramentas
+## Formação Acadêmica
 
-- **Linguagens:** Python, SQL, DAX, R
+**Faculdade Impacta Tecnologia**  
+Tecnologia em Banco de Dados – 3º semestre  
+Previsão de conclusão: Dezembro/2026
+
+**ETEC Uirapuru – Centro Paula Souza**  
+Técnico em Desenvolvimento de Sistemas – Concluído em 2024  
+Carga horária total: 1.200 horas
+
+---
+
+## Cursos e Certificações
+
+### Análise de Dados e Business Intelligence
+- Certificado Profissional de Análise de Dados do Google – Coursera (180h)
+- Data Analytics com Power BI – Bootcamp Sysvision (82h)
+- Power BI Analyst – DIO (60h)
+- Power BI – Faculdade Impacta (40h)
+- Modelagem de Dados com Power BI – DIO (16h)
+
+### Python, SQL e Programação
+- Python Developer – DIO (57h)
+- Python Data Analytics – DIO (68h)
+- Programação para Machine Learning – DIO (16h)
+- POO com Python – DIO (6h)
+- SQL: Criando Sistemas – Faculdade Impacta (23h)
+- SQL Server – DIO (3h)
+- Santander 2025 - Back-end com Python – DIO (58h)
+
+### Machine Learning e Inteligência Artificial
+- Certificado Profissional de Ciência de Dados – IBM / Coursera (em andamento)
+- Machine Learning Specialist – DIO (92h)
+- Visão Computacional com Machine Learning – DIO (9h)
+- IA com Copilot – Bootcamp Heineken (64h)
+- Ciência de Dados – Bootcamp Potência Tech iFood (80h)
+
+### Outros Cursos
+- Excel 365 – Faculdade Impacta (24h)
+- Fundamentos de Hardware e Software – Fundação Bradesco (7h)
+- Desenvolvimento Pessoal – Alura (36h)
+- Curso Profissionalizante – Camp Oeste (272h)
+- Iniciante em Programação – Alura (72h)
+- Java: Primeira Aplicação – Alura (8h)
+
+---
+
+## Habilidades Técnicas
+
+- **Linguagens:** Python, SQL, DAX, R  
+- **Ferramentas e Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Excel, Power BI  
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
-- **Análise de Dados:** Excel, Google Sheets, Power BI, Tableau, RStudio
-- **Ciência de Dados:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Outros:** Git, GitHub, Notion, VS Code  
 
 ---
 
-## 📁 Projetos em Destaque
+## Conhecimentos e Competências
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🛍️ **Análise de Vendas Amazon Índia (Roupas)** | Análise de vendas com foco em comportamento do consumidor e lucratividade de roupas na Amazon Índia | Python |
-| 🏬 **Loja Fictícia - Vendas** | Análise de vendas de uma loja fictícia com foco em produtos mais vendidos, faturamento e sazonalidade | Python |
-
-> Veja os repositórios para mais detalhes e dashboards interativos!
+- Modelagem e visualização de dados  
+- Análise exploratória e geração de insights  
+- Noções de Machine Learning e Inteligência Artificial  
+- Comunicação clara, trabalho em equipe e aprendizado contínuo  
 
 ---
 
-## 📚 Formação e Cursos
+## Idiomas
 
-### 📊 Análise de Dados e Business Intelligence
-
-- Google Data Analytics Certificate – Coursera *(em andamento)*  
-- **Data Analytics com Power BI** – Bootcamp Sysvision (82h)  
-- **Power BI Analyst** – DIO (60h)  
-- **Power BI** – Faculdade Impacta (40h)  
-- **Modelagem de Dados com Power BI** – DIO (16h)  
-- **Análise de Dados e BI** *(concluído)*
-
-### 🐍 Python, SQL e Programação
-
-- **Python Developer** – DIO (57h)  
-- **Python Data Analytics** – DIO (68h)  
-- **Programação para Machine Learning** – DIO (16h)  
-- **POO com Python** – DIO (6h)  
-- **SQL: Criando Sistemas** – Faculdade Impacta (23h)  
-- **SQL Server** – DIO (3h)
-
-### 🤖 Machine Learning e Inteligência Artificial
-
-- IBM Data Science Professional Certificate – Coursera *(em andamento)*  
-- **Machine Learning Specialist** – DIO (92h)  
-- **Visão Computacional com ML** – DIO (9h)  
-- **IA com Copilot** – Bootcamp Heineken (64h)  
-- **Ciência de Dados** – Bootcamp Potência Tech iFood (80h)
-
-### 🧰 Outros Cursos
-
-- **Excel 365** – Faculdade Impacta (24h)  
-- **Fundamentos de Hardware e Software** – Fundação Bradesco (7h)  
-- **Desenvolvimento Pessoal** – Alura (36h)  
-- **Curso Profissionalizante** – Camp Oeste (272h)  
-- **Iniciante em Programação** – Alura (72h)  
-- **Java: Primeira Aplicação** – Alura (8h)
+- Inglês: Intermediário/Avançado (nível B2 certificado)
 
 ---
 
-## 🌱 Objetivos 2025
+## Objetivos
 
-- [x] Criar meu portfólio no GitHub  
-- [x] Publicar meus primeiros projetos  
-- [ ] Conquistar meu espaço na área de Dados  
-- [ ] Postar conteúdo de tecnologia no LinkedIn  
-- [ ] Comprar minha moto dos sonhos e mudar toda minha realidade 🛵  
-
----
-
-## 🤝 Conecte-se comigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/danieli-queirozprofissional)  
-- 📧 Email: danieliqueirozprofissional@gmail.com  
+- Conquistar minha primeira oportunidade na área de Dados  
+- Desenvolver projetos práticos em Python, SQL e Power BI  
+- Ampliar minha presença profissional no LinkedIn  
+- Concluir certificações estratégicas em Ciência de Dados e Machine Learning  
 
 ---
 
-🦋 *"Transformar dados em decisões é mais do que técnica, é impacto real."*
+**"Transformar dados em decisões é mais do que domínio técnico: é gerar impacto real."**
 
 
