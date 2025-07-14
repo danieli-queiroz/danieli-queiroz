@@ -1,4 +1,3 @@
-<h1 align="center">✨ Danieli Queiroz | Cientista de Dados em formação</h1>
 <h1 align="center">Danieli Santos Queiroz | Cientista de Dados em Formação</h1>
 
 <p align="center">
