@@ -113,8 +113,7 @@ Carga horária total: 1.200 horas
 - Publicar projetos de análise no GitHub e dashboards no Power BI  
 - Compartilhar conhecimento no LinkedIn com leveza e verdade  
 - Concluir o programa de Ciência de Dados da IBM  
-- Comprar minha moto dos sonhos e mudar minha realidade
-
+- Mudar toda a minha realidade.
 ---
 
 **"Transformar dados em decisões é mais do que técnica: é um compromisso com impacto real."**
