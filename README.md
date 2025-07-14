@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou Danieli Santos Queiroz, estudante de Banco de Dados pela Faculdade Impacta e formada como Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru.
+Sou Danieli Queiroz, estudante de Banco de Dados pela Faculdade Impacta e formada como Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru.
 
 Tenho me aprofundado nas áreas de Python, SQL, Power BI e fundamentos de Machine Learning com o objetivo de transformar dados em decisões estratégicas, otimizar processos e apoiar empresas com soluções baseadas em evidências.
 
