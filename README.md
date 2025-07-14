@@ -14,9 +14,25 @@
 
 ## Sobre mim
 
-Sou Danieli Santos Queiroz, estudante de Banco de Dados pela Faculdade Impacta e formada como Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru. Tenho me dedicado diariamente à área de Dados e Tecnologia, com foco em Python, SQL, Power BI e fundamentos de Machine Learning.
+Sou Danieli Santos Queiroz, estudante de Banco de Dados pela Faculdade Impacta e formada como Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru.
 
-Acredito no poder da análise de dados para apoiar decisões estratégicas, otimizar processos e gerar impacto real em ambientes colaborativos. Estou construindo meu portfólio com projetos práticos, aplicando as ferramentas e conceitos aprendidos ao longo da minha formação técnica, acadêmica e em cursos livres.
+Tenho me aprofundado nas áreas de Python, SQL, Power BI e fundamentos de Machine Learning com o objetivo de transformar dados em decisões estratégicas, otimizar processos e apoiar empresas com soluções baseadas em evidências.
+
+Acredito que a construção de uma carreira sólida começa com disciplina, propósito e constância. Estou em transição para a área de Dados, e construo diariamente meu portfólio prático e minha base teórica para atuar com excelência e impacto.
+
+---
+
+## Perfil Pessoal
+
+Sou uma pessoa extremamente organizada, determinada e comprometida com a evolução constante. Acredito que o sucesso resulta da combinação equilibrada entre preparo técnico e cuidado pessoal, valores que aplico rigorosamente em minha rotina.
+
+- Estruturo meus estudos utilizando Notion, aliando planejamento semanal com técnicas comprovadas de produtividade, como o método Pomodoro.  
+- Minha rotina é cuidadosamente planejada com um planner semanal, garantindo foco e equilíbrio.  
+- Pratico atividades físicas diariamente, incluindo musculação e corrida ao ar livre, fortalecendo corpo e mente.  
+- Mantenho hábitos saudáveis, como alimentação balanceada e autocuidado diário, com skincare realizado três vezes ao dia.  
+- Realizo pausas conscientes durante os blocos de estudo, promovendo concentração máxima e recuperação mental.
+
+Essa disciplina me ajuda a manter o equilíbrio, sustentar metas de longo prazo e executar com qualidade. Tenho orgulho de dizer que sou uma mulher que transforma limites em combustível para crescer.
 
 ---
 
@@ -70,18 +86,18 @@ Carga horária total: 1.200 horas
 ## Habilidades Técnicas
 
 - **Linguagens:** Python, SQL, DAX, R  
-- **Ferramentas e Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Excel, Power BI  
+- **Ferramentas e Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI, Excel  
 - **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
 - **Outros:** Git, GitHub, Notion, VS Code  
 
 ---
 
-## Conhecimentos e Competências
+## Competências Comportamentais
 
-- Modelagem e visualização de dados  
-- Análise exploratória e geração de insights  
-- Noções de Machine Learning e Inteligência Artificial  
-- Comunicação clara, trabalho em equipe e aprendizado contínuo  
+- Organização e gestão de rotina  
+- Resiliência e constância mesmo sob pressão  
+- Comunicação clara e colaboração em equipe  
+- Aprendizado contínuo e adaptabilidade  
 
 ---
 
@@ -91,15 +107,14 @@ Carga horária total: 1.200 horas
 
 ---
 
-## Objetivos
+## Objetivos Atuais
 
 - Conquistar minha primeira oportunidade na área de Dados  
-- Desenvolver projetos práticos em Python, SQL e Power BI  
-- Ampliar minha presença profissional no LinkedIn  
-- Concluir certificações estratégicas em Ciência de Dados e Machine Learning  
+- Publicar projetos de análise no GitHub e dashboards no Power BI  
+- Compartilhar conhecimento no LinkedIn com leveza e verdade  
+- Concluir o programa de Ciência de Dados da IBM  
+- Comprar minha moto dos sonhos e mudar minha realidade
 
 ---
 
-**"Transformar dados em decisões é mais do que domínio técnico: é gerar impacto real."**
-
-
+**"Transformar dados em decisões é mais do que técnica: é um compromisso com impacto real."**
