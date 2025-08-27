@@ -56,6 +56,7 @@ Carga horária total: 1.200 horas
 - Power BI Analyst – DIO (60h)
 - Power BI – Faculdade Impacta (40h)
 - Modelagem de Dados com Power BI – DIO (16h)
+- ETL na Prática - Faculdade Impacta (4h) 
 
 ### Python, SQL e Programação
 - Python Developer – DIO (57h)
