@@ -1,120 +1,78 @@
-<h1 align="center">Danieli Queiroz | Cientista de Dados em Formação</h1>
+# Danieli Queiroz
+## Analista de Dados Júnior | Python & SQL Developer
 
-<p align="center">
-  São Paulo - SP | Estudante de Banco de Dados | Foco em Python, SQL, Power BI e Machine Learning
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/danieli-queirozprofissional">LinkedIn</a> •
-  <a href="mailto:danieliqueirozprofissional@gmail.com">Email</a> •
-  <a href="https://github.com/danieli-queiroz">GitHub</a>
-</p>
-
----
-
-## Sobre mim
-
-Sou Danieli Queiroz, estudante de Banco de Dados pela Faculdade Impacta e formada como Técnica em Desenvolvimento de Sistemas pela ETEC Uirapuru.
-
-Tenho me aprofundado nas áreas de Python, SQL, Power BI e fundamentos de Machine Learning com o objetivo de transformar dados em decisões estratégicas, otimizar processos e apoiar empresas com soluções baseadas em evidências.
-
-Acredito que a construção de uma carreira sólida começa com disciplina, propósito e constância. Estou em transição para a área de Dados, e construo diariamente meu portfólio prático e minha base teórica para atuar com excelência e impacto.
+<div align="center">
+  <a href="https://www.linkedin.com/in/danieliqueirozprofissional">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:danieliqueirozprofissional@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## Perfil Pessoal
+### Sobre Mim
 
-Sou uma pessoa extremamente organizada, determinada e comprometida com a evolução constante. Acredito que o sucesso resulta da combinação equilibrada entre preparo técnico e cuidado pessoal, valores que aplico rigorosamente em minha rotina.
+Sou Analista de Dados Júnior e estudante do 4º semestre de Banco de Dados pela Faculdade Impacta Tecnologia. Minha formação técnica em Desenvolvimento de Sistemas (ETEC) me deu a base de lógica que hoje aplico na Ciência de Dados.
 
-- Estruturo meus estudos utilizando Notion, aliando planejamento semanal com técnicas comprovadas de produtividade, como o método Pomodoro.  
-- Minha rotina é cuidadosamente planejada com um planner semanal, garantindo foco e equilíbrio.  
-- Pratico atividades físicas diariamente, incluindo musculação e corrida ao ar livre, fortalecendo corpo e mente.  
-- Mantenho hábitos saudáveis, como alimentação balanceada e autocuidado diário, com skincare realizado três vezes ao dia.  
-- Realizo pausas conscientes durante os blocos de estudo, promovendo concentração máxima e recuperação mental.
+Meu foco profissional é ingressar definitivamente na área de Dados aplicando Python, SQL, Machine Learning e Power BI para gerar insights, automatizar processos e apoiar decisões estratégicas. Busco desenvolver minha carreira contribuindo com soluções inteligentes.
 
-Essa disciplina me ajuda a manter o equilíbrio, sustentar metas de longo prazo e executar com qualidade. Tenho orgulho de dizer que sou uma mulher que transforma limites em combustível para crescer.
+* **Atuação Atual:** Analista de Dados Júnior focada em automação de rotinas (Python), ETL e qualidade de dados.
+* **Experiência Recente:** Consultoria em automação de fluxos operacionais e comunicação com IA generativa.
+* **Diferenciais:** Inglês Avançado (C1) e perfil autodidata com forte disciplina de estudos.
 
 ---
 
-## Formação Acadêmica
+### Habilidades Técnicas
 
-**Faculdade Impacta Tecnologia**  
-Tecnologia em Banco de Dados – 3º semestre  
-Previsão de conclusão: Dezembro/2026
+**Linguagens & Banco de Dados**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**ETEC Uirapuru – Centro Paula Souza**  
-Técnico em Desenvolvimento de Sistemas – Concluído em 2024  
-Carga horária total: 1.200 horas
+**Análise de Dados & Visualização**
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
-
-## Cursos e Certificações
-
-### Análise de Dados e Business Intelligence
-- Certificado Profissional de Análise de Dados do Google – Coursera (180h)
-- Data Analytics com Power BI – Bootcamp Sysvision (82h)
-- Power BI Analyst – DIO (60h)
-- Power BI – Faculdade Impacta (40h)
-- Modelagem de Dados com Power BI – DIO (16h)
-- ETL na Prática - Faculdade Impacta (4h) 
-
-### Python, SQL e Programação
-- Python Developer – DIO (57h)
-- Python Data Analytics – DIO (68h)
-- Programação para Machine Learning – DIO (16h)
-- POO com Python – DIO (6h)
-- SQL: Criando Sistemas – Faculdade Impacta (23h)
-- SQL Server – DIO (3h)
-- Santander 2025 - Back-end com Python – DIO (58h)
-
-### Machine Learning e Inteligência Artificial
-- Certificado Profissional de Ciência de Dados – IBM / Coursera (em andamento)
-- Machine Learning Specialist – DIO (92h)
-- Visão Computacional com Machine Learning – DIO (9h)
-- IA com Copilot – Bootcamp Heineken (64h)
-- Ciência de Dados – Bootcamp Potência Tech iFood (80h)
-
-### Outros Cursos
-- Excel 365 – Faculdade Impacta (24h)
-- Fundamentos de Hardware e Software – Fundação Bradesco (7h)
-- Desenvolvimento Pessoal – Alura (36h)
-- Curso Profissionalizante – Camp Oeste (272h)
-- Iniciante em Programação – Alura (72h)
-- Java: Primeira Aplicação – Alura (8h)
+**Machine Learning & Ferramentas**
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Habilidades Técnicas
+### Histórico Profissional
 
-- **Linguagens:** Python, SQL, DAX, R  
-- **Ferramentas e Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI, Excel  
-- **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
-- **Outros:** Git, GitHub, Notion, VS Code  
+**Analista de Dados Júnior** | *Atual*
+Atuação com Python na automação de rotinas e análise exploratória de dados. Responsável por processos de ETL e qualidade dos dados para suporte estratégico.
 
----
-
-## Competências Comportamentais
-
-- Organização e gestão de rotina  
-- Resiliência e constância mesmo sob pressão  
-- Comunicação clara e colaboração em equipe  
-- Aprendizado contínuo e adaptabilidade  
+**Consultora Executiva Digital (PJ)** | *Ago/2025 - Jan/2026*
+Automação de fluxos operacionais e comunicação com IA generativa para ganho de eficiência.
 
 ---
 
-## Idiomas
+### Formação Acadêmica
 
-- Inglês: Intermediário/Avançado (nível B2 certificado)
+* **Tecnologia em Banco de Dados** | Faculdade Impacta (4º Semestre - Previsão: Dez/2026)
+* **Técnico em Desenvolvimento de Sistemas** | ETEC Uirapuru (Concluído: 2024 - 1.200h)
 
 ---
 
-## Objetivos Atuais
+### Certificações em Destaque
 
-- Conquistar minha primeira oportunidade na área de Dados  
-- Publicar projetos de análise no GitHub e dashboards no Power BI  
-- Compartilhar conhecimento no LinkedIn com leveza e verdade  
-- Concluir o programa de Ciência de Dados da IBM  
-- Mudar toda a minha realidade.
+* **Harvard Business School:** Programa Aspire Leaders 2025
+* **IBM:** Data Science Professional Certificate (Cursando)
+* **Google:** Certificado Profissional de Análise de Dados (180h)
+* **DIO:** Machine Learning Specialist (92h)
+* **Idioma:** Inglês C1 Advanced Level (Carlos Freitas English School)
+
 ---
 
-**"Transformar dados em decisões é mais do que técnica: é um compromisso com impacto real."**
+<div align="center">
+  <sub>Danieli Queiroz © 2026</sub>
+</div>
