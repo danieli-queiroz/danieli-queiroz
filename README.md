@@ -16,7 +16,7 @@
 
 Sou Analista de Dados Júnior e estudante do 4º semestre de Banco de Dados pela Faculdade Impacta Tecnologia. Minha formação técnica em Desenvolvimento de Sistemas (ETEC) me deu a base de lógica que hoje aplico na Ciência de Dados.
 
-Meu foco profissional é uma carreira definitivamente na área de Dados aplicando Python, SQL, Machine Learning e Power BI para gerar insights, automatizar processos e apoiar decisões estratégicas. Busco desenvolver minha carreira contribuindo com soluções inteligentes.
+Meu foco profissional é uma carreira crescente na área de Dados aplicando Python, SQL, Machine Learning e Power BI para gerar insights, automatizar processos e apoiar decisões estratégicas. Busco desenvolver minha carreira contribuindo com soluções inteligentes.
 
 * **Atuação Atual:** Analista de Dados Júnior focada em automação de rotinas (Python), ETL e qualidade de dados.
 * **Experiência Recente:** Consultoria em automação de fluxos operacionais e comunicação com IA generativa.
