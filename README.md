@@ -1,5 +1,3 @@
-# Danieli Queiroz
-
 <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4d912a7d-55ee-4867-9174-2a922dd8906b" />
 
 ## Analista de Dados Júnior | Python & SQL Developer
