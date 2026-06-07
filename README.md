@@ -41,7 +41,7 @@ Beyond technical analysis, I explore broader questions around **AI governance**,
 
 > An analysis of the growing gap between the rapid advancement of Artificial Intelligence and the slower pace of social, ethical, and regulatory debates. Examines the impact of automation on labor markets, socioeconomic inequality, and the urgent need for active state intervention and public discourse.
 
-📄 [Read the article (PT)](./artigo_ia_danieli_queiroz.md) &nbsp;|&nbsp; 📄 [Read the article (EN)](./article_ai_danieli_queiroz_en.md)
+📄 [Read the article (PT)](./article-01-the-centurys-mismatch-pt.md.md) &nbsp;|&nbsp; 📄 [Read the article (EN)](./article-01-the-centurys-mismatch-en.md.md)
 
 ---
 
@@ -72,7 +72,7 @@ Beyond technical analysis, I explore broader questions around **AI governance**,
 
 ## Experience
 
-**Data Analyst** · Current
+**Data Analyst** · Jan 2026 - March 2026
 > Python automation, ETL processes, data quality, and exploratory analysis to support business decisions and operational efficiency.
 
 **Executive Digital Consultant** · Aug 2025 – Jan 2026
