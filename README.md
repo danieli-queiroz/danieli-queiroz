@@ -1,7 +1,11 @@
-```markdown
 <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/4d912a7d-55ee-4867-9174-2a922dd8906b" />
 
-# Technology, AI & Society | Data Analyst and Researcher
+<h1 align="center">Danieli Queiroz</h1>
+<h3 align="center">Data Analyst · Independent Researcher · Database Student</h3>
+
+<p align="center">
+  Exploring the intersection of Artificial Intelligence, technology, and society — through data, research, and critical thinking.
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danieliqueirozprofissional">
@@ -16,38 +20,28 @@
 
 ## About Me
 
-I am a Data Analyst, independent researcher, and Database student interested in the intersection of Artificial Intelligence, technology, society, and public policy.
+I am a Data Analyst, independent researcher, and Database Technology student with a focus on the social and ethical dimensions of emerging technologies.
 
-My background combines data analysis, Python automation, applied research, and content production focused on the social impact of emerging technologies. I am particularly interested in understanding how Artificial Intelligence influences labor markets, public institutions, human behavior, and social development.
+My work combines **data analysis**, **Python automation**, **applied research**, and content production centered on the real-world impact of Artificial Intelligence. I am particularly interested in how AI shapes labor markets, public institutions, human behavior, and social development.
 
-In addition to my technical work with data, I explore broader questions related to technological transformation, AI governance, ethics, and innovation.
-
-My long-term goal is to contribute to initiatives that use technology and Artificial Intelligence to promote social impact, responsible innovation, and human development.
+Beyond technical analysis, I explore broader questions around **AI governance**, **technology policy**, and **responsible innovation** — with the long-term goal of contributing to initiatives where technology genuinely serves human development.
 
 ---
 
 ## Research Interests
 
-- Artificial Intelligence
-- AI Governance
-- Technology and Society
-- Public Policy
-- Social Impact
-- Future of Work
-- Digital Transformation
-- Human Development
-- Human Behavior in the Digital Age
-- Ethics of Emerging Technologies
+`Artificial Intelligence` `AI Governance` `Future of Work` `Technology & Society` `Public Policy` `Digital Transformation` `Ethics of Emerging Technologies` `Human Development` `Social Impact`
 
 ---
 
-## Research Portfolio
+## Publications
 
-### Publications
+### The Century's Gap: The Advancement of Artificial Intelligence and the Inertia of Social Debate
+**2026** · Opinion Article
 
-#### The Century's Mismatch: The Advancement of Artificial Intelligence and the Inertia of Social Debate (2026)
+> An analysis of the growing gap between the rapid advancement of Artificial Intelligence and the slower pace of social, ethical, and regulatory debates. Examines the impact of automation on labor markets, socioeconomic inequality, and the urgent need for active state intervention and public discourse.
 
-An opinion article discussing the growing gap between the rapid advancement of Artificial Intelligence and the slower pace of social, ethical, and regulatory debates surrounding its impact on labor markets, inequality, and public policy.
+📄 [Read the article (PT)](./artigo_ia_danieli_queiroz.md) &nbsp;|&nbsp; 📄 [Read the article (EN)](./article_ai_danieli_queiroz_en.md)
 
 ---
 
@@ -76,58 +70,36 @@ An opinion article discussing the growing gap between the rapid advancement of A
 
 ---
 
-## Professional Experience
+## Experience
 
-### Data Analyst | Current
+**Data Analyst** · Current
+> Python automation, ETL processes, data quality, and exploratory analysis to support business decisions and operational efficiency.
 
-Working with Python automation, ETL processes, data quality, and exploratory analysis to support business decisions and operational efficiency.
-
-### Executive Digital Consultant (Contract)
-
-**Aug 2025 – Jan 2026**
-
-Consulting focused on workflow automation, operational efficiency, and the application of generative AI tools in business communication.
+**Executive Digital Consultant** · Aug 2025 – Jan 2026
+> Consulting on workflow automation, operational efficiency, and generative AI applied to business communication.
 
 ---
 
 ## Education
 
-### Database Technology
-
-Faculty Impacta Technology  
-Expected Graduation: December 2026
-
-### Systems Development Technician
-
-ETEC Uirapuru  
-Completed in 2024 (1,200h)
+| Degree | Institution | Status |
+|---|---|---|
+| Database Technology | Faculty Impacta Technology | Expected Dec 2026 |
+| Systems Development Technician | ETEC Uirapuru | Completed 2024 (1,200h) |
 
 ---
 
 ## Certifications
 
-- Harvard Business School – Aspire Leaders Program
-- IBM Data Science Professional Certificate 
-- Google Data Analytics Professional Certificate
-- DIO Machine Learning Specialist
-- English C1 Advanced Level
-- Data Science Etichs - University of Michigan
-
----
-
-## Current Focus
-
-- Data Analytics
-- Artificial Intelligence
-- AI Governance
-- Technology Policy
-- Research & Writing
-- Social Impact
-- Public Policy
+- 🎓 Harvard Business School — Aspire Leaders Program
+- 📊 IBM Data Science Professional Certificate
+- 📊 Google Data Analytics Professional Certificate
+- 🤖 DIO Machine Learning Specialist
+- 🧠 Data Science Ethics — University of Michigan
+- 🌐 English C1 Advanced Level
 
 ---
 
 <div align="center">
   <sub>Danieli Queiroz © 2026</sub>
 </div>
-```
