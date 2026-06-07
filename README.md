@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a Data Analyst, independent researcher, and Database Technology student with a focus on the social and ethical dimensions of emerging technologies.
+I am a Data Analyst, aspiring Data Scientist, independent researcher, and Database Technology student with a focus on the social and ethical dimensions of emerging technologies.
 
 My work combines **data analysis**, **Python automation**, **applied research**, and content production centered on the real-world impact of Artificial Intelligence. I am particularly interested in how AI shapes labor markets, public institutions, human behavior, and social development.
 
@@ -31,19 +31,6 @@ Beyond technical analysis, I explore broader questions around **AI governance**,
 ## Research Interests
 
 `Artificial Intelligence` `AI Governance` `Future of Work` `Technology & Society` `Public Policy` `Digital Transformation` `Ethics of Emerging Technologies` `Human Development` `Social Impact`
-
----
-
-## Publications
-
-### The Century's Gap: The Advancement of Artificial Intelligence and the Inertia of Social Debate
-**2026** · Opinion Article
-
-> An analysis of the growing gap between the rapid advancement of Artificial Intelligence and the slower pace of social, ethical, and regulatory debates. Examines the impact of automation on labor markets, socioeconomic inequality, and the urgent need for active state intervention and public discourse.
-
-📄 [Read the article (PT)](./article-01-the-centurys-mismatch-pt.md.md) &nbsp;|&nbsp; 📄 [Read the article (EN)](./article-01-the-centurys-mismatch-en.md.md)
-
----
 
 ## Technical Skills
 
